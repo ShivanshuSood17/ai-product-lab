@@ -18,7 +18,7 @@ Day 2 - Tokyo
 [Evening]
 🍜 Vegetarian Ramen Spot
 🕒 7:00 PM – 9:00 PM
---------------------
+
 
 User taps: [ ✏️ Refine ]
 
