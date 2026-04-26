@@ -36,7 +36,7 @@ WanderWeaver is an AI-powered itinerary builder that:
 
 ### 🧩 Feature Deep Dive
 
-👉 [Micro-Refinement Engine](./product-briefs/feature-deep-dive-micro-refinement.md)
+👉 [Micro-Refinement Engine](.product-briefs/feature-micro-refinement-engine.md)
 
 ### 🧱 Wireframe
 
