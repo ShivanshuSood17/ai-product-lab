@@ -7,13 +7,13 @@
 
 ## 1. Product Title
 
-**WanderWeaver** — *Hyper-Personalized Travel, Woven for You*
+**WanderWeaver** — *No Two Trips Are Ever the Same*
 
 ---
 
 ## 2. Problem Statement
 
-Planning travel is a massive time sink. Users spend countless hours across dozens of tabs (blogs, maps, review sites, booking portals) trying to piece together a cohesive trip that matches their specific interests, dietary needs, pace, and budget. Existing solutions are deeply flawed: pre-packaged tours are too rigid and generic, while DIY tools are overwhelming and offer zero guidance. 
+Planning travel is a massive time sink. Users spend countless hours across dozens of tabs (blogs, maps, review sites, booking portals) trying to piece together a cohesive trip that matches their specific interests, dietary needs, pace, and budget which wishing to explore the insta worthy travel destinations. Existing solutions are deeply flawed: pre-packaged tours are too rigid and generic, while DIY tools are overwhelming and offer zero guidance leaving the user clueless while planning and even when they reach the desired destination. Even the recommedations feel subpar if not properly planned as per the interests.
 
 **The core pain points:**
 
@@ -24,7 +24,7 @@ Planning travel is a massive time sink. Users spend countless hours across dozen
 | Generic Recommendations | Missing out on niche interests (e.g., best specialty coffee, specific art movements) |
 | Friction in Refinement | Changing one plan cascades into manually re-doing the whole day |
 
-> **Core insight:** Users want the expertise and ease of a luxury travel agent, but with the immediate control and personalization of DIY planning.
+> **Core insight:** Users want the expertise and ease of a luxury travel agent, but with the immediate control and personalization of DIY planning catering to their interests.
 
 ---
 
@@ -53,7 +53,7 @@ ONBOARDING → GENERATION → REFINEMENT → EXECUTION
 **① Onboarding & Discovery (The Interview)**
 - User engages in a dynamic, conversational interface (chat or voice).
 - *AI:* "Where are we heading, and what's the vibe? Relaxing beach, intense cultural deep-dive, or something in between?"
-- *User:* "Tokyo for 7 days. I want to focus on specialty coffee, obscure vintage synth shops, and I'm a vegetarian. Keep the pace relaxed."
+- *User:* "Tokyo for 7 days. I want to focus on specialty coffee and deserts that are instagram recommended, obscure vintage synth shops, and I'm a vegetarian. Keep the pace relaxed."
 
 **② Generation (The First Draft)**
 - The AI constraint engine generates a complete, day-by-day itinerary.
@@ -109,12 +109,12 @@ ONBOARDING → GENERATION → REFINEMENT → EXECUTION
 
 ## 7. Differentiation (vs. Competitors)
 
-| Feature | WanderWeaver | ChatGPT (Base) | TripAdvisor | Expedia |
+| Feature | WanderWeaver | ChatGPT (Base) | TripAdvisor | Expedia | MakeMyTrip | HostelWorld | Visit A City |
 |---|---|---|---|---|
-| Hyper-Personalization | ✅ High | ✅ High | ❌ Low | ❌ Low |
-| Realistic Routing/Logistics | ✅ High (API backed) | ❌ Low (Hallucinates) | ❌ Low | ❌ Low |
-| Easy Refinement of Parts | ✅ High | 🟡 Medium (Requires prompting) | ❌ Low | ❌ Low |
-| Collaborative Editing | ✅ Yes (P1) | ❌ No | ❌ No | ❌ No |
+| Hyper-Personalization | ✅ High | ✅ High | ❌ Low | ❌ Low | ❌ Low | ❌ Low | ❌ Low |
+| Realistic Routing/Logistics | ✅ High (API backed) | ❌ Low (Hallucinates) | ❌ Low | ❌ Low | ❌ Low |❌ Low |❌ Low |
+| Easy Refinement of Parts | ✅ ❌ Low |❌ Low |High | 🟡 Medium (Requires prompting) | ❌ Low | ❌ Low |❌ Low |
+| Collaborative Editing | ✅ Yes (P1) | ❌ No | ❌ No | ❌ No |❌ No |❌ No |❌ No |
 
 **Unique moat:** We solve the "last mile" of AI travel planning. ChatGPT gives you a good list; WanderWeaver turns that list into a geographically accurate, time-bound, routable schedule that you can actually execute.
 
@@ -143,6 +143,7 @@ ONBOARDING → GENERATION → REFINEMENT → EXECUTION
 | **Activation** | Intake-to-Generation Rate | > 80% (Users who start the chat and get a full itinerary) |
 | **Engagement** | Refinement Actions per Itinerary | 3–5 (Shows active curation, not just window shopping) |
 | **Retention** | Multi-Trip User Rate | > 15% (Users who plan a second trip within 6 months) |
+| **Retention** | Planning Time| < 30% (Reduced time to plan a trip) |
 | **Monetization** | Free-to-Paid Conversion | > 4% |
 
 ---
