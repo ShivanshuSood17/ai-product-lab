@@ -46,25 +46,9 @@ WanderWeaver is an AI-powered itinerary builder that:
 
 ## 📊 Product Thinking Highlights
 
-* Designed for iterative planning (not one-time generation)
+* Designed for iterative planning 
 * Focused on reducing decision fatigue
 * Built around real-world constraints (time, distance, preferences)
 * Prioritized execution feasibility over AI novelty
-
----
-
-## 🚀 What’s Next
-
-* Add prioritization framework (RICE)
-* Build additional use cases (sports + travel)
-* Expand into end-to-end MVP thinking
-
----
-
-## 📌 About Me
-
-* Product Manager working on AI-driven systems
-* Exploring AI-native product design
-* Interested in Travel Tech & Sports Tech
 
 ---
