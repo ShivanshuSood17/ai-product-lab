@@ -25,6 +25,23 @@ Planning travel is a massive time sink. Users spend countless hours across dozen
 | Friction in Refinement | Changing one plan cascades into manually re-doing the whole day |
 
 > **Core insight:** Users want the expertise and ease of a luxury travel agent, but with the immediate control and personalization of DIY planning catering to their interests.
+>
+> ## 2.1 Why Now?
+
+- Explosion of LLM capabilities enables understanding of nuanced travel intent
+- Rising preference for experiential travel over checklist tourism
+- Increased travel frequency among young professionals post-COVID
+- Fragmentation of travel planning tools creates a gap for unified solutions
+
+> Timing insight: Travel planning is the last major consumer journey still not fully AI-native.
+>
+> ## 2.2 Market Opportunity
+
+- Global online travel market: ~$800B+
+- % users who plan trips digitally: >70%
+- Target segment (DIY planners): ~30–40%
+
+Initial wedge: High-intent international travelers (premium segment)
 
 ---
 
@@ -116,7 +133,7 @@ ONBOARDING → GENERATION → REFINEMENT → EXECUTION
 | Easy Refinement of Parts | ✅ ❌ Low |❌ Low |High | 🟡 Medium (Requires prompting) | ❌ Low | ❌ Low |❌ Low |
 | Collaborative Editing | ✅ Yes (P1) | ❌ No | ❌ No | ❌ No |❌ No |❌ No |❌ No |
 
-**Unique moat:** We solve the "last mile" of AI travel planning. ChatGPT gives you a good list; WanderWeaver turns that list into a geographically accurate, time-bound, routable schedule that you can actually execute.
+**Unique moat:** WWe are not competing with booking platforms—we are competing with the planning behavior itself. WanderWeaver replaces 10 tabs, not 1 app.
 
 ---
 
@@ -143,8 +160,9 @@ ONBOARDING → GENERATION → REFINEMENT → EXECUTION
 | **Activation** | Intake-to-Generation Rate | > 80% (Users who start the chat and get a full itinerary) |
 | **Engagement** | Refinement Actions per Itinerary | 3–5 (Shows active curation, not just window shopping) |
 | **Retention** | Multi-Trip User Rate | > 15% (Users who plan a second trip within 6 months) |
-| **Retention** | Planning Time| < 30% (Reduced time to plan a trip) |
+| **Retention** | Planning Time| - 30% (Reduced time to plan a trip) |
 | **Monetization** | Free-to-Paid Conversion | > 4% |
+| **Itinerary-to-Booking Conversion Rate** | >25% |
 
 ---
 
@@ -164,6 +182,13 @@ ONBOARDING → GENERATION → REFINEMENT → EXECUTION
 | **Interface** | Build custom map UI immediately | Rely on Google Maps export | **Maps Export (Faster time to market, familiar to users)** |
 | **Booking** | Build native booking engine | Deep link to partners | **Deep links (Focus on our core competency: planning)** |
 | **Data Source** | Scrape blogs/social media | Paid access to premium APIs | **Premium APIs (Reliability is paramount for travel)** |
+
+## 💡 Key Product Insight
+
+Planning is not a pre-booking step—it *is* the core product experience.
+
+Users emotionally commit to a trip during planning, not booking.
+Winning planning = winning the entire funnel.
 
 ---
 
