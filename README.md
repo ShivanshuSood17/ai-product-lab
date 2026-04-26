@@ -32,7 +32,7 @@ WanderWeaver is an AI-powered itinerary builder that:
 
 ### 📄 Product Brief
 
-👉 [View Full Brief](./product-briefs/<product-briefs/ai-itinerary-builder.md>.md)
+👉 [View Full Brief](ai-product-lab/product-briefs/wanderweaver-ai-itinerary-builder.md)
 
 ### 🧩 Feature Deep Dive
 
